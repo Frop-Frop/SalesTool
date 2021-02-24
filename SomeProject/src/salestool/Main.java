@@ -10,5 +10,7 @@ public static void main(String[] args) {
 private static void displayGreeting() {
 	System.out.println("HELLO THERE");
 	System.out.println("THIS APP SHOWS SALES DATA");
+	
+	System.out.println("Test1");
 }
 }
